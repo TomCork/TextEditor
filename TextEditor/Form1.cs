@@ -31,5 +31,11 @@ namespace TextEditor
         {
             saveFileDialog1.ShowDialog();
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            About a = new About();
+            a.Show();
+        }
     }
 }
