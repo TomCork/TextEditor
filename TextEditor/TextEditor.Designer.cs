@@ -1,6 +1,6 @@
 ﻿namespace TextEditor
 {
-    partial class Form1
+    partial class TextEditor
     {
         /// <summary>
         /// Required designer variable.
